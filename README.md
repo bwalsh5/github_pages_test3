@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Effect of blah on Blah
+## By Brian Walsh
+### MEA 3290, Spring 2021
 
 You can use the [editor on GitHub](https://github.com/bwalsh5/github_pages_test3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
